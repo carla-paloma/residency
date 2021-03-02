@@ -363,6 +363,7 @@ Layout
 .nav__item__link {
   text-transform: uppercase;
   padding: .25em 0;
+  color: var(--clr-light);
 }
 
 .content {
